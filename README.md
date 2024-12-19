@@ -1,6 +1,7 @@
 # Festive Frenzy
 
-Add a festive touch to your browsing experience with this extension. Enjoy a snowfall effect and random emojis on your screen. The extension also features background music that alternates between two 8-bit christmas themed tracks to keep the holiday spirit alive. Easily toggle the effects on or off with a single click.
+This extension adds a festive touch to your browsing experience. Enjoy a snowfall effect and random emojis on your screen. The extension also features background music that alternates between two 8-bit Christmas-themed tracks to keep the holiday spirit alive. Easily toggle the effects on or off with a single click.
+Use the extension by downloading it from the link: https://chromewebstore.google.com/detail/festive-frenzy/memgnknahobfhgikoangaflnblfdpdnc
 
 ## Features
 
